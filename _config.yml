@@ -1,24 +1,25 @@
-title: Researcher
-url: "https://ankitsultana.com"
-baseurl: "/researcher"
+title: Flurin Gishamer
+url: "https://gishamer.io"
+baseurl: ""
+repository: gishamer/gishamer.github.io
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
 
 tracking_id: #
 
-footer: yes
-footer_url: "https://github.com/ankitsultana"
-footer_text: "Page design by Ankit Sultana"
+footer: no
+footer_url: "https://github.com/gishamer"
+footer_text: "Wanna try?"
 
 sass:
     style: compressed
     sass_dir: _sass
 
 nav:
- - name: "About"
-   link: "/researcher/"
- - name: "Resume"
-   link: "resume.pdf"
- - name: "Contact"
-   link: "contact"
+ - name: "Blog"
+   link: "https://fluringishamer.substack.com/"
+ - name: "Github"
+   link: "https://github.com/gishamer"
+ - name: "LinkedIn"
+   link: "https://www.linkedin.com/in/fluringishamer/"
