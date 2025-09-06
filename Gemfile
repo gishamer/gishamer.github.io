@@ -1,9 +1,8 @@
 source "https://rubygems.org"
 
-gem "jekyll", "~> 4.2.0"
+# If you use GitHub Pages to build/publish, prefer the github-pages gem:
+# gem "github-pages", group: :jekyll_plugins
 
-group :jekyll_plugins do
-  gem "jekyll-feed", "~> 0.12"
-end
-
-gem "webrick", "~> 1.7"
+gem "jekyll", "~> 4.2"
+gem "jekyll-feed"
+gem "jekyll-remote-theme"
