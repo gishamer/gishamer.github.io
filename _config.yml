@@ -1,34 +1,24 @@
-title: "Gishamer's Blog"
-author: "Flurin Gishamer"
-#description: "foo"
-permalink: /:title/
-lang: "en"
-excerpt_separator: "\n\n\n"
-date_format: "%B %d, %Y"
+title: Researcher
+url: "https://ankitsultana.com"
+baseurl: "/researcher"
 
-# Use a remote theme hosted at GitHub
-# (repository format: "owner/repo")
-remote_theme: "ankitsultana/researcher"
+markdown: kramdown
+#ins_logo: "./bits-logo.png"
 
-# Layout
-show_excerpts: true        # show article excerpts on the home page
-show_frame: true           # adds a gray frame to the site
-show_sidebar: false        # show a sidebar instead of the usual header
+tracking_id: #
 
-# Menu
-navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "about.md"}
+footer: yes
+footer_url: "https://github.com/ankitsultana"
+footer_text: "Page design by Ankit Sultana"
 
-external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-#  - {title: Mail, icon: envelope, url: "mailto:niklasbuschmann@users.noreply.github.com"}
-  - {title: Github, icon: github, url: "https://github.com/gishamer"}
-  - {title: LinkedIn, icon: linkedin-in, url: "https://www.linkedin.com/in/fluringishamer"}
-  - {title: Subscribe, icon: rss, url: "/feed.xml"}
+sass:
+    style: compressed
+    sass_dir: _sass
 
-comments:
-#  disqus_shortname: ""    # see https://disqus.com/
-#  isso_domain: ""         # see https://posativ.org/isso/
-
-plugins:
- - jekyll-feed
- - jekyll-remote-theme
+nav:
+ - name: "About"
+   link: "/researcher/"
+ - name: "Resume"
+   link: "resume.pdf"
+ - name: "Contact"
+   link: "contact"
