@@ -1,13 +1,13 @@
 ---
 layout: default
-description: "Flurin Gishamer — Senior Data Scientist in Zürich, building multi-agent systems for customer operations. Writing on agentic AI at Undisconnected."
+description: "Flurin Gishamer — Senior AI Engineer in Zürich, building multi-agent systems for customer operations. Writing on agentic AI at Undisconnected."
 ---
 
 <img class="profile-picture" src="/assets/me.jpg" alt="Portrait of Flurin Gishamer">
 
 # Hi, I'm Flurin.
 
-I'm a Senior Data Scientist at [Open Systems](https://www.open-systems.com/) in Zürich, where I build multi-agent systems that automate customer operations.
+I'm a Senior AI Engineer in Zürich, where I build multi-agent systems that automate customer operations.
 
 My work centers on making AI agents reliable enough for production: agent architecture, guardrails, evaluation, and the data foundations that agentic systems depend on.
 
