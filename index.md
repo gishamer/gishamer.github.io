@@ -20,8 +20,9 @@ Above the individual agent sits the layer I find most consequential, the [agent 
      may change to: "I build and run these systems in production at Open Systems in Zürich." -->
 <ul class="proof-list">
   <li><strong>Peer-reviewed:</strong> <a href="https://aclanthology.org/2024.swisstext-1.54/" target="_blank" rel="noopener noreferrer">Practical Strategies for Enhancing Reliability of GenAI Systems in Customer Operations</a> — SwissText 2024, ACL Anthology.</li>
-  <li><strong>Speaking:</strong> Invited speaker at the <a href="https://swissnlp.org/llms-in-practice-expert-meeting9-4-2024/" target="_blank" rel="noopener noreferrer">SwissNLP "LLMs in Practice" expert group</a>.</li>
+  <li><strong>Speaking:</strong> Invited speaker at the <a href="https://swissnlp.org/llms-in-practice-expert-meeting9-4-2024/" target="_blank" rel="noopener noreferrer">SwissNLP "LLMs in Practice" expert group</a>. Workshop speaker at the <a href="https://pretalx.com/workshoptage-2025/talk/USY3PY/" target="_blank" rel="noopener noreferrer">CH Open Workshop-Tage</a>.</li>
   <li><strong>In production:</strong> I build and run these systems in production, not on slides.</li>
+  <li><strong>Upcoming:</strong> On 10 September 2026 I teach a full day workshop at the CH Open Workshop-Tage in Rapperswil: <a href="https://pretalx.com/workshop-tage-2026/talk/WN8QU7/" target="_blank" rel="noopener noreferrer">Enterprise-Ready AI Agents: Architecting the Agent Mesh with Open Source</a>. <a href="https://eventfrog.ch/de/p/wissenschaft-und-technik/enterprise-ready-ai-agents-architecting-the-agent-mesh-with-7467545691239243809.html" target="_blank" rel="noopener noreferrer">Tickets for the day are available on Eventfrog</a>.</li>
 </ul>
 
 ## Selected writing
