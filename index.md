@@ -9,16 +9,11 @@ layout: default
 
 # I build AI agents that can be trusted with real work.
 
-<p class="hero-subscribe"><a href="#subscribe">Subscribe to my newsletter, Undisconnected</a></p>
-
 I am a Senior AI Engineer in Zürich. My systems automate customer operations: agents that read, route, and resolve the requests that used to fill a team's inbox.
 
 What separates a production agent from a demo is rarely the model. It is the machinery around it: guardrails that bound what an agent is allowed to do, evaluation that shows whether it actually helps, and data foundations that both depend on.
 
 Above the individual agent sits the layer I find most consequential, the [agent mesh](https://fluringishamer.substack.com/p/the-agent-mesh): the control plane that lets an organization run many agents and still keep a human behind the steering wheel.
-
-I write about all of this on [Undisconnected](https://fluringishamer.substack.com/). If you are working on similar problems, [LinkedIn](https://www.linkedin.com/in/fluringishamer/) is the best place to reach me.
-
 ## Selected work & credentials
 
 <!-- TODO: pending Flurin's confirmation on naming his employer, the "In production" line
