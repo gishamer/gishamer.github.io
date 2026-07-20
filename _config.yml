@@ -1,25 +1,24 @@
 title: Flurin Gishamer
+description: "Flurin Gishamer — Senior Data Scientist in Zürich, building multi-agent systems for customer operations."
 url: "https://gishamer.io"
 baseurl: ""
 repository: gishamer/gishamer.github.io
 
 markdown: kramdown
-#ins_logo: "./bits-logo.png"
-
-tracking_id: #
-
-footer: no
-footer_url: "https://github.com/gishamer"
-footer_text: "Wanna try?"
 
 sass:
     style: compressed
-    sass_dir: _sass
 
 nav:
  - name: "Blog"
    link: "https://fluringishamer.substack.com/"
- - name: "Github"
+ - name: "GitHub"
    link: "https://github.com/gishamer"
  - name: "LinkedIn"
    link: "https://www.linkedin.com/in/fluringishamer/"
+
+exclude:
+ - README.md
+ - LICENSE
+ - Gemfile
+ - Gemfile.lock
