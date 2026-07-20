@@ -1,15 +1,15 @@
 ---
 layout: default
-description: "Flurin Gishamer — Senior AI Engineer in Zürich, building multi-agent systems for customer operations. Writing on agentic AI at Undisconnected."
+description: "Flurin Gishamer, Senior AI Engineer in Zürich. Multi-agent systems, guardrails for AI agents, and the agent mesh. Writing at Undisconnected."
 ---
 
 <img class="profile-picture" src="/assets/me.jpg" alt="Portrait of Flurin Gishamer">
 
-# Hi, I'm Flurin.
+# Hi, I am Flurin.
 
-I'm a Senior AI Engineer in Zürich, where I build multi-agent systems that automate customer operations.
+I am a Senior AI Engineer in Zürich. I design and build multi-agent systems, most recently to automate customer operations, and the part of the work I care about most is making agents dependable enough for production: guardrails that bound what an agent is allowed to do, evaluation that shows whether it actually helps, and data foundations solid enough to carry the rest.
 
-My work centers on making AI agents reliable enough for production: agent architecture, guardrails, evaluation, and the data foundations that agentic systems depend on.
+What occupies me lately is the layer above the individual agent, which I call the agent mesh: the control plane that lets an organization run many agents and still keep a human behind the steering wheel. Kubernetes played that role for microservices, and agents need the same kind of substrate.
 
 I write about these topics on my blog, [Undisconnected](https://fluringishamer.substack.com/).
 
