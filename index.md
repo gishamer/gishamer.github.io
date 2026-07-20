@@ -5,13 +5,15 @@ description: "Flurin Gishamer, Senior AI Engineer in Zürich. Multi-agent system
 
 <img class="profile-picture" src="/assets/me.jpg" alt="Portrait of Flurin Gishamer">
 
-# Hi, I am Flurin.
+# I build AI agents that can be trusted with real work.
 
-I am a Senior AI Engineer in Zürich. I design and build multi-agent systems, most recently to automate customer operations, and the part of the work I care about most is making agents dependable enough for production: guardrails that bound what an agent is allowed to do, evaluation that shows whether it actually helps, and data foundations solid enough to carry the rest.
+I am a Senior AI Engineer in Zürich. My systems automate customer operations: agents that read, route, and resolve the requests that used to fill a team's inbox.
 
-What occupies me lately is the layer above the individual agent, which I call the agent mesh: the control plane that lets an organization run many agents and still keep a human behind the steering wheel. Kubernetes played that role for microservices, and agents need the same kind of substrate.
+What separates a production agent from a demo is rarely the model. It is the machinery around it: guardrails that bound what an agent is allowed to do, evaluation that shows whether it actually helps, and data foundations that both depend on.
 
-I write about these topics on my blog, [Undisconnected](https://fluringishamer.substack.com/).
+Above the individual agent sits the layer I find most consequential, the [agent mesh](https://fluringishamer.substack.com/p/the-agent-mesh): the control plane that lets an organization run many agents and still keep a human behind the steering wheel.
+
+I write about all of this on [Undisconnected](https://fluringishamer.substack.com/). If you are working on similar problems, [LinkedIn](https://www.linkedin.com/in/fluringishamer/) is the best place to reach me.
 
 ## Selected writing
 
