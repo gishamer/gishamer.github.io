@@ -14,6 +14,9 @@ I am a Senior AI Engineer in Zürich. My systems automate customer operations: a
 What separates a production agent from a demo is rarely the model. It is the machinery around it: guardrails that bound what an agent is allowed to do, evaluation that shows whether it actually helps, and data foundations that both depend on.
 
 Above the individual agent sits the layer I find most consequential, the [agent mesh](https://fluringishamer.substack.com/p/the-agent-mesh): the control plane that lets an organization run many agents and still keep a human behind the steering wheel.
+
+On 10 September 2026, I am teaching the Agent Mesh workshop at CH Open Workshop-Tage; [find the course materials and exercises here](/agent-mesh-workshop-2026/).
+
 ## Selected work & credentials
 
 <!-- TODO: pending Flurin's confirmation on naming his employer, the "In production" line
