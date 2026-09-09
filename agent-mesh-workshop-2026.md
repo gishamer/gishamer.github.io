@@ -7,7 +7,7 @@ permalink: /agent-mesh-workshop-2026/
 
 # Agent Mesh Workshop 2026
 
-Welcome to the page for Workshop Tage 2026: the Agent Mesh course on 10 September 2026.
+Welcome to the course page for [Enterprise-Ready AI Agents: Architecting the Agent Mesh with Open Source](https://pretalx.com/workshop-tage-2026/talk/WN8QU7/), a full-day workshop at the CH Open Workshop-Tage in Rapperswil on 10 September 2026.
 
 We will move from the parts of an agent system to the control plane that lets many agents work safely together. Expect a practical day: we will inspect capabilities, work through real integration boundaries, introduce a gateway, and use evidence to understand what happened in a run.
 
