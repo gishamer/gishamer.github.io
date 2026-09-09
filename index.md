@@ -15,6 +15,8 @@ What separates a production agent from a demo is rarely the model. It is the mac
 
 Above the individual agent sits the layer I find most consequential, the [agent mesh](https://fluringishamer.substack.com/p/the-agent-mesh): the control plane that lets an organization run many agents and still keep a human behind the steering wheel.
 
+## Agent Mesh Workshop 2026
+
 On 10 September 2026, I am teaching the Agent Mesh workshop at CH Open Workshop-Tage; [find the course materials and exercises here](/agent-mesh-workshop-2026/).
 
 ## Selected work & credentials
