@@ -17,7 +17,7 @@ Above the individual agent sits the layer I find most consequential, the [agent 
 
 ## Agent Mesh Workshop 2026
 
-On 10 September 2026, I am teaching the Agent Mesh workshop at CH Open Workshop-Tage; [find the course materials and exercises here](/agent-mesh-workshop-2026/).
+On 10 September 2026, I am teaching the [Agent Mesh workshop](https://pretalx.com/workshop-tage-2026/talk/WN8QU7/) at CH Open Workshop-Tage; [find the course materials and exercises here](/agent-mesh-workshop-2026/).
 
 ## Selected work & credentials
 

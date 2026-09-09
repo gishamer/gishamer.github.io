@@ -22,7 +22,3 @@ To run the exercises on your own laptop, clone the [Agent Mesh setup repository]
 - [Docker Desktop](https://docs.docker.com/desktop/setup/install/mac-install/), [Visual Studio Code](https://code.visualstudio.com/docs/setup/mac), and [uv](https://docs.astral.sh/uv/getting-started/installation/).
 - The required command-line tools: [kubectl](https://kubernetes.io/docs/tasks/tools/install-kubectl-macos/), [kind](https://kind.sigs.k8s.io/docs/user/quick-start/), [Helm](https://helm.sh/docs/intro/install/), [Node.js and npm](https://nodejs.org/en/download), [jq](https://jqlang.org/download/), [Python 3](https://www.python.org/downloads/macos/), and [Git](https://git-scm.com/downloads/mac).
 - macOS already includes `curl`. If `make --version` does not work, install Apple's Command Line Tools with `xcode-select --install`.
-
-## Exercises and questions
-
-The hands-on exercises are available in the [Agent Mesh exercises repository](https://github.com/gishamer/agent-mesh-exercises). If a task is unclear or you get stuck, [email me](mailto:flurin@gishamer.io?subject=Agent%20Mesh%20Workshop%202026%20exercise%20question) and I will be glad to help.
