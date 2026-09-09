@@ -2,6 +2,7 @@
 layout: default
 title: "Agent Mesh Workshop 2026 | Flurin Gishamer"
 description: "Materials and exercises for the Agent Mesh workshop on 10 September 2026."
+permalink: /agent-mesh-workshop-2026/
 ---
 
 # Agent Mesh Workshop 2026
