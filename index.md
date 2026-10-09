@@ -9,11 +9,11 @@ layout: default
 
 # AI Czar at Open Systems.
 
-I drive the architecture, shared capabilities, and technical safeguards for AI adoption at Open Systems in Zürich.
+I shape how we adopt and operate AI across the organization: where it can create value, which capabilities to prioritize, and how to put them into practice.
 
-I work with engineering and product leadership to identify valuable use cases, set priorities, and turn them into a practical platform roadmap. I introduced our [agent mesh](https://www.undisconnected.blog/p/the-agent-mesh) approach and reusable agent skills to encode domain knowledge, and coordinate how these capabilities develop across teams.
+I define our AI platform architecture and roadmap. I introduced the [agent mesh](https://www.undisconnected.blog/p/the-agent-mesh) as a shared foundation for operating AI agents, and reusable agent skills to make domain knowledge available across tools and workflows.
 
-I own the technical direction for AI evaluation and guardrails, working with Compliance and our Data Protection Officer to align safeguards with organizational requirements. Through our Data & AI Guild, I bring colleagues together to exchange knowledge and develop our approach.
+I own the technical direction for AI evaluation and guardrails, translating reliability, compliance, and data protection requirements into platform design. I also lead our Data & AI Guild to build shared knowledge and support adoption across teams.
 
 ## Agent Mesh Workshop 2026
 
@@ -59,7 +59,7 @@ On 10 September 2026, I taught the [Agent Mesh workshop](https://pretalx.com/wor
 ## Newsletter
 {: #subscribe}
 
-I write about AI architecture, adoption, and governance in Undisconnected: how organizations put AI to work, preserve domain knowledge, and keep systems reliable and accountable. It connects organizational decisions with the engineering that makes them possible.
+In Undisconnected, I explore what it takes to put AI to work across an organization: architecture, domain knowledge, adoption, and governance. I connect these decisions with the engineering needed to make systems dependable.
 
 <div class="subscribe-embed">
   <iframe src="https://fluringishamer.substack.com/embed" width="100%" height="150" title="Subscribe to Undisconnected" frameborder="0" scrolling="no"></iframe>
@@ -69,4 +69,4 @@ I write about AI architecture, adoption, and governance in Undisconnected: how o
 
 ## Elsewhere
 
-My professional work is proprietary, but you can find open-source experiments on [GitHub](https://github.com/gishamer) and connect with me on [LinkedIn](https://www.linkedin.com/in/fluringishamer/).
+Explore my open-source experiments on [GitHub](https://github.com/gishamer) or connect with me on [LinkedIn](https://www.linkedin.com/in/fluringishamer/).
