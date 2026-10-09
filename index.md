@@ -2,10 +2,7 @@
 layout: default
 ---
 
-<picture>
-  <source srcset="/assets/me.webp" type="image/webp">
-  <img class="profile-picture" src="/assets/flurin-gishamer.jpg" alt="Portrait of Flurin Gishamer" width="640" height="640" fetchpriority="high">
-</picture>
+<img class="profile-picture" src="/assets/flurin-gishamer.jpg" alt="Portrait of Flurin Gishamer" width="500" height="500" fetchpriority="high">
 
 # AI Czar at Open Systems.
 
