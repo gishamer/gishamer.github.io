@@ -9,64 +9,51 @@ layout: default
 
 # AI Czar at Open Systems.
 
-I shape how we adopt and operate AI across the organization: where it can create value, which capabilities to prioritize, and how to put them into practice.
+I shape how we adopt and operate AI: which problems to prioritize, how the platform should support teams, and what it takes to run it dependably. My focus connects domain knowledge, AI architecture, and technical governance.
 
-I define our AI platform architecture and roadmap. I introduced the [agent mesh](https://www.undisconnected.blog/p/the-agent-mesh) as a shared foundation for operating AI agents, and reusable agent skills to make domain knowledge available across tools and workflows.
+## What I work on
 
-I own the technical direction for AI evaluation and guardrails, translating reliability, compliance, and data protection requirements into platform design. I also lead our Data & AI Guild to build shared knowledge and support adoption across teams.
+- **Shared AI architecture.** I introduced our agent mesh approach, define the platform architecture and roadmap, and coordinate implementation. My [Agent Mesh essay](https://www.undisconnected.blog/p/the-agent-mesh) explains the architectural ideas behind this work.
+- **Reusable domain knowledge.** I introduced agent skills and designed an approach to sharing and maintaining them across teams and tools. [Skill UI](https://github.com/gishamer/skill-ui) is a separate open-source project exploring the practical tools for that lifecycle.
+- **Dependable operation.** I set the technical direction for evaluation and guardrails, translating reliability, compliance, and data protection requirements into platform design. I also lead our Data & AI Guild to share knowledge across teams.
 
-## Agent Mesh Workshop 2026
+## Start here
 
-On 10 September 2026, I taught the [Agent Mesh workshop](https://pretalx.com/workshop-tage-2026/talk/WN8QU7/) at CH Open Workshop-Tage in Rapperswil. [Explore the course materials and exercises](/agent-mesh-workshop-2026/).
+Three essays on making AI useful across an organization.
 
-## Selected work & credentials
-
-<ul class="proof-list">
-  <li><strong>Peer-reviewed:</strong> <a href="https://aclanthology.org/2024.swisstext-1.54/" target="_blank" rel="noopener noreferrer">Practical Strategies for Enhancing Reliability of GenAI Systems in Customer Operations</a> — SwissText 2024, ACL Anthology.</li>
-  <li><strong>Speaking:</strong> Invited speaker at the <a href="https://swissnlp.org/llms-in-practice-expert-meeting9-4-2024/" target="_blank" rel="noopener noreferrer">SwissNLP "LLMs in Practice" expert group</a>. Workshop speaker at the <a href="https://pretalx.com/workshoptage-2025/talk/USY3PY/" target="_blank" rel="noopener noreferrer">CH Open Workshop-Tage</a>.</li>
-  <li><strong>Engineering foundation:</strong> Production AI systems for customer operations, evaluation frameworks, and risk-based guardrails.</li>
-</ul>
-
-## Selected writing
-
-<!-- TODO: dates are maintained by hand. GitHub Pages builds Jekyll in safe mode, so the
-     Substack feed (https://fluringishamer.substack.com/feed) cannot be fetched at build
-     time; update dates here when posts are added. -->
 <ul class="post-list">
   <li class="post-featured">
-    <span class="start-here">Start here</span>
-    <a href="https://fluringishamer.substack.com/p/the-agent-mesh" target="_blank" rel="noopener noreferrer">The Agent Mesh</a>
-    <span class="post-date">May 2026</span>
-    <span class="post-note">The control plane for the agent era: how an organization runs many agents and still keeps a human behind the steering wheel.</span>
+    <span class="start-here">Domain knowledge</span>
+    <a href="https://www.undisconnected.blog/p/the-most-important-role-in-an-ai" target="_blank" rel="noopener noreferrer">The Most Important Role in an AI-Native Company</a>
+    <span class="post-note">Why domain experts need time, training, and authority to shape how AI is used.</span>
   </li>
   <li>
-    <a href="https://fluringishamer.substack.com/p/a-short-history-of-looking" target="_blank" rel="noopener noreferrer">A short history of looking</a>
-    <span class="post-date">June 2026</span>
-    <span class="post-note">Why the only prompting technique that does not go stale is understanding what the model attends to.</span>
+    <a href="https://www.undisconnected.blog/p/the-agent-mesh" target="_blank" rel="noopener noreferrer">The Agent Mesh</a>
+    <span class="post-note">A shared architecture for agent identity, tool access, and oversight across teams.</span>
   </li>
   <li>
-    <a href="https://fluringishamer.substack.com/p/guardrails-for-ai-agents" target="_blank" rel="noopener noreferrer">Guardrails for AI Agents</a>
-    <span class="post-date">September 2025</span>
-    <span class="post-note">A risk-based approach to AI agent safety.</span>
-  </li>
-  <li>
-    <a href="https://fluringishamer.substack.com/p/a-a-domain-driven-approach-to-mcp" target="_blank" rel="noopener noreferrer">A Domain-Driven Approach to MCP</a>
-    <span class="post-date">September 2025</span>
-    <span class="post-note">Why business domains, not technology stacks, are the right foundation for dependable agents.</span>
+    <a href="https://www.undisconnected.blog/p/the-emperors-new-agent" target="_blank" rel="noopener noreferrer">The Emperor’s New Agent</a>
+    <span class="post-note">Measure the work before automating it, then evaluate whether the process improves.</span>
   </li>
 </ul>
 
-## Newsletter
+## Speaking & publications
+
+- **Agent Mesh workshop.** Materials and exercises from my [CH Open workshop in September 2026](https://pretalx.com/workshop-tage-2026/talk/WN8QU7/) on designing and operating AI agents across an organization. [Explore the workshop](/agent-mesh-workshop-2026/).
+- **SwissText 2024.** Coauthor of [Practical Strategies for Enhancing Reliability of GenAI Systems in Customer Operations](https://aclanthology.org/2024.swisstext-1.54/).
+- **Invited talks and workshops.** [SwissNLP “LLMs in Practice”](https://swissnlp.org/llms-in-practice-expert-meeting9-4-2024/) and [CH Open Workshop-Tage 2025](https://pretalx.com/workshoptage-2025/talk/USY3PY/).
+
+[Speaker bio and topics](/speaking/).
+
+## Undisconnected
 {: #subscribe}
 
-In Undisconnected, I explore what it takes to put AI to work across an organization: architecture, domain knowledge, adoption, and governance. I connect these decisions with the engineering needed to make systems dependable.
+I write for people making decisions about AI architecture, engineering, and adoption. Undisconnected examines the domain knowledge AI needs, the platforms it runs on, and the evidence that it improves the work. [Read the newsletter](https://www.undisconnected.blog/).
 
 <div class="subscribe-embed">
   <iframe src="https://fluringishamer.substack.com/embed" width="100%" height="150" title="Subscribe to Undisconnected" frameborder="0" scrolling="no"></iframe>
 </div>
 
-<p class="secondary-note">I take on a small number of advisory conversations and speaking engagements. The fastest way to reach me is <a href="https://www.linkedin.com/in/fluringishamer/" target="_blank" rel="noopener noreferrer">LinkedIn</a>.</p>
+## Contact
 
-## Elsewhere
-
-Explore my open-source experiments on [GitHub](https://github.com/gishamer) or connect with me on [LinkedIn](https://www.linkedin.com/in/fluringishamer/).
+For speaking invitations or discussions about AI architecture, adoption, and governance, contact me on [LinkedIn](https://www.linkedin.com/in/fluringishamer/). Explore my public projects on [GitHub](https://github.com/gishamer).

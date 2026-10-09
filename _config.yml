@@ -14,7 +14,7 @@ sass:
     style: compressed
 
 nav:
- - name: "Blog"
+ - name: "Writing"
    link: "https://www.undisconnected.blog/"
  - name: "GitHub"
    link: "https://github.com/gishamer"
