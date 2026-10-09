@@ -4,7 +4,7 @@ layout: default
 
 <picture>
   <source srcset="/assets/me.webp" type="image/webp">
-  <img class="profile-picture" src="/assets/me.jpg" alt="Portrait of Flurin Gishamer" width="640" height="640" fetchpriority="high">
+  <img class="profile-picture" src="/assets/flurin-gishamer.jpg" alt="Portrait of Flurin Gishamer" width="640" height="640" fetchpriority="high">
 </picture>
 
 # AI Czar at Open Systems.
