@@ -14,14 +14,15 @@
     <meta property="og:description" content="{{ seo_description }}">
     <meta property="og:url" content="{{ page.url | replace: 'index.html', '' | absolute_url }}">
     <meta property="og:type" content="website">
-    <meta property="og:image" content="{{ '/assets/og-card.png' | absolute_url }}">
-    <meta property="og:image:width" content="1200">
-    <meta property="og:image:height" content="630">
+    <meta property="og:image" content="{{ '/assets/og-ai-czar.jpg' | absolute_url }}">
+    <meta property="og:image:width" content="1333">
+    <meta property="og:image:height" content="700">
+    <meta property="og:image:alt" content="Flurin Gishamer — AI Czar at Open Systems. AI architecture, adoption, and governance.">
     <meta property="og:locale" content="en_US">
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="{{ seo_title }}">
     <meta name="twitter:description" content="{{ seo_description }}">
-    <meta name="twitter:image" content="{{ '/assets/og-card.png' | absolute_url }}">
+    <meta name="twitter:image" content="{{ '/assets/og-ai-czar.jpg' | absolute_url }}">
     <link rel="icon" href="{{ '/assets/favicon.svg' | relative_url }}" type="image/svg+xml">
     <link rel="icon" href="{{ '/assets/favicon-32.png' | relative_url }}" type="image/png" sizes="32x32">
     <link rel="apple-touch-icon" href="{{ '/assets/apple-touch-icon.png' | relative_url }}">
@@ -31,7 +32,11 @@
       "@context": "https://schema.org",
       "@type": "Person",
       "name": "Flurin Gishamer",
-      "jobTitle": "Senior AI Engineer",
+      "jobTitle": "AI Czar",
+      "worksFor": {
+        "@type": "Organization",
+        "name": "Open Systems"
+      },
       "url": "{{ site.url }}/",
       "image": "{{ '/assets/me.jpg' | absolute_url }}",
       "address": {

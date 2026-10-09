@@ -7,27 +7,24 @@ layout: default
   <img class="profile-picture" src="/assets/me.jpg" alt="Portrait of Flurin Gishamer" width="640" height="640" fetchpriority="high">
 </picture>
 
-# I build AI agents that can be trusted with real work.
+# AI Czar at Open Systems.
 
-I am a Senior AI Engineer in Zürich. My systems automate customer operations: agents that read, route, and resolve the requests that used to fill a team's inbox.
+I drive the architecture, shared capabilities, and technical safeguards for AI adoption at Open Systems in Zürich.
 
-What separates a production agent from a demo is rarely the model. It is the machinery around it: guardrails that bound what an agent is allowed to do, evaluation that shows whether it actually helps, and data foundations that both depend on.
+I work with engineering and product leadership to identify valuable use cases, set priorities, and turn them into a practical platform roadmap. I introduced our [agent mesh](https://www.undisconnected.blog/p/the-agent-mesh) approach and reusable agent skills to encode domain knowledge, and coordinate how these capabilities develop across teams.
 
-Above the individual agent sits the layer I find most consequential, the [agent mesh](https://fluringishamer.substack.com/p/the-agent-mesh): the control plane that lets an organization run many agents and still keep a human behind the steering wheel.
+I own the technical direction for AI evaluation and guardrails, working with Compliance and our Data Protection Officer to align safeguards with organizational requirements. Through our Data & AI Guild, I bring colleagues together to exchange knowledge and develop our approach.
 
 ## Agent Mesh Workshop 2026
 
-On 10 September 2026, I am teaching the [Agent Mesh workshop](https://pretalx.com/workshop-tage-2026/talk/WN8QU7/) at CH Open Workshop-Tage; [find the course materials and exercises here](/agent-mesh-workshop-2026/).
+On 10 September 2026, I taught the [Agent Mesh workshop](https://pretalx.com/workshop-tage-2026/talk/WN8QU7/) at CH Open Workshop-Tage in Rapperswil. [Explore the course materials and exercises](/agent-mesh-workshop-2026/).
 
 ## Selected work & credentials
 
-<!-- TODO: pending Flurin's confirmation on naming his employer, the "In production" line
-     may change to: "I build and run these systems in production at Open Systems in Zürich." -->
 <ul class="proof-list">
   <li><strong>Peer-reviewed:</strong> <a href="https://aclanthology.org/2024.swisstext-1.54/" target="_blank" rel="noopener noreferrer">Practical Strategies for Enhancing Reliability of GenAI Systems in Customer Operations</a> — SwissText 2024, ACL Anthology.</li>
   <li><strong>Speaking:</strong> Invited speaker at the <a href="https://swissnlp.org/llms-in-practice-expert-meeting9-4-2024/" target="_blank" rel="noopener noreferrer">SwissNLP "LLMs in Practice" expert group</a>. Workshop speaker at the <a href="https://pretalx.com/workshoptage-2025/talk/USY3PY/" target="_blank" rel="noopener noreferrer">CH Open Workshop-Tage</a>.</li>
-  <li><strong>In production:</strong> I build and run these systems in production, not on slides.</li>
-  <li><strong>Upcoming:</strong> On 10 September 2026 I teach a full day workshop at the CH Open Workshop-Tage in Rapperswil: <a href="https://pretalx.com/workshop-tage-2026/talk/WN8QU7/" target="_blank" rel="noopener noreferrer">Enterprise-Ready AI Agents: Architecting the Agent Mesh with Open Source</a>. <a href="https://eventfrog.ch/de/p/wissenschaft-und-technik/enterprise-ready-ai-agents-architecting-the-agent-mesh-with-7467545691239243809.html" target="_blank" rel="noopener noreferrer">Tickets for the day are available on Eventfrog</a>.</li>
+  <li><strong>Engineering foundation:</strong> Production AI systems for customer operations, evaluation frameworks, and risk-based guardrails.</li>
 </ul>
 
 ## Selected writing
@@ -62,7 +59,7 @@ On 10 September 2026, I am teaching the [Agent Mesh workshop](https://pretalx.co
 ## Newsletter
 {: #subscribe}
 
-I write about this work in my newsletter, Undisconnected: guardrails, evaluation, and the control planes that keep a human behind the steering wheel. If you are building agents that have to survive contact with production, it is written for you.
+I write about AI architecture, adoption, and governance in Undisconnected: how organizations put AI to work, preserve domain knowledge, and keep systems reliable and accountable. It connects organizational decisions with the engineering that makes them possible.
 
 <div class="subscribe-embed">
   <iframe src="https://fluringishamer.substack.com/embed" width="100%" height="150" title="Subscribe to Undisconnected" frameborder="0" scrolling="no"></iframe>
