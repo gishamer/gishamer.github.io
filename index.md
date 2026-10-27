@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<img class="profile-picture" src="/assets/flurin-gishamer.jpg" alt="Portrait of Flurin Gishamer" width="500" height="500" fetchpriority="high">
+<img class="profile-picture" src="/assets/flurin-gishamer.jpg?v=20261027" alt="Portrait of Flurin Gishamer" width="1254" height="1254" fetchpriority="high">
 
 # AI Czar at Open Systems.
 
